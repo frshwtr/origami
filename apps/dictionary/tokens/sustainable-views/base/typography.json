@@ -3,250 +3,250 @@
     "font": {
       "family": {
         "metric": {
-          "value": "metric 2 VF, sans-serif",
-          "type": "fontFamilies"
+          "$type": "fontFamilies",
+          "$value": "metric 2 VF, sans-serif"
         },
         "financier-display": {
-          "value": "financier display VF, serif",
-          "type": "fontFamilies"
+          "$type": "fontFamilies",
+          "$value": "financier display VF, serif"
         },
         "financier-text": {
-          "value": "financier text VF, serif",
-          "type": "fontFamilies"
+          "$type": "fontFamilies",
+          "$value": "financier text VF, serif"
         },
         "georgia": {
-          "value": "georgia, serif",
-          "type": "fontFamilies"
+          "$type": "fontFamilies",
+          "$value": "georgia, serif"
         }
       },
       "weight": {
         "light": {
-          "value": "300",
-          "type": "fontWeights"
+          "$type": "fontWeights",
+          "$value": "300"
         },
         "regular": {
-          "value": "400",
-          "type": "fontWeights"
+          "$type": "fontWeights",
+          "$value": "400"
         },
         "medium": {
-          "value": "500",
-          "type": "fontWeights"
+          "$type": "fontWeights",
+          "$value": "500"
         },
         "semibold": {
-          "value": "700",
-          "type": "fontWeights"
+          "$type": "fontWeights",
+          "$value": "700"
         },
         "bold": {
-          "value": "800",
-          "type": "fontWeights"
+          "$type": "fontWeights",
+          "$value": "800"
         }
       },
       "lineheight": {
         "0": {
-          "value": "20",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "20"
         },
         "1": {
-          "value": "20",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "20"
         },
         "2": {
-          "value": "24",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "24"
         },
         "3": {
-          "value": "28",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "28"
         },
         "4": {
-          "value": "32",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "32"
         },
         "5": {
-          "value": "32",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "32"
         },
         "6": {
-          "value": "40",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "40"
         },
         "7": {
-          "value": "48",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "48"
         },
         "8": {
-          "value": "56",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "56"
         },
         "9": {
-          "value": "72",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "72"
         },
         "10": {
-          "value": "84",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "84"
         },
         "negative-2": {
-          "value": "16",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "16"
         },
         "negative-1": {
-          "value": "16",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "16"
         }
       },
       "size": {
         "0": {
-          "value": "16",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "16"
         },
         "1": {
-          "value": "18",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "18"
         },
         "2": {
-          "value": "20",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "20"
         },
         "3": {
-          "value": "24",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "24"
         },
         "4": {
-          "value": "28",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "28"
         },
         "5": {
-          "value": "32",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "32"
         },
         "6": {
-          "value": "40",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "40"
         },
         "7": {
-          "value": "48",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "48"
         },
         "8": {
-          "value": "56",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "56"
         },
         "9": {
-          "value": "72",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "72"
         },
         "10": {
-          "value": "84",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "84"
         },
         "negative-2": {
-          "value": "12",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "12"
         },
         "negative-1": {
-          "value": "14",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "14"
         }
       },
       "lineheight-metric2": {
         "0": {
-          "value": "24",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "24"
         },
         "1": {
-          "value": "24",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "24"
         },
         "2": {
-          "value": "28",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "28"
         },
         "3": {
-          "value": "32",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "32"
         },
         "4": {
-          "value": "32",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "32"
         },
         "5": {
-          "value": "40",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "40"
         },
         "6": {
-          "value": "48",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "48"
         },
         "7": {
-          "value": "56",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "56"
         },
         "8": {
-          "value": "72",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "72"
         },
         "9": {
-          "value": "84",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "84"
         },
         "negative-2": {
-          "value": "16",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "16"
         },
         "negative-1": {
-          "value": "20",
-          "type": "dimension"
+          "$type": "dimension",
+          "$value": "20"
         }
       },
       "size-metric2": {
         "0": {
-          "value": "16",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "16"
         },
         "1": {
-          "value": "18",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "18"
         },
         "2": {
-          "value": "20",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "20"
         },
         "3": {
-          "value": "24",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "24"
         },
         "4": {
-          "value": "28",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "28"
         },
         "5": {
-          "value": "32",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "32"
         },
         "6": {
-          "value": "40",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "40"
         },
         "7": {
-          "value": "48",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "48"
         },
         "8": {
-          "value": "64",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "64"
         },
         "9": {
-          "value": "72",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "72"
         },
         "negative-2": {
-          "value": "12",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "12"
         },
         "negative-1": {
-          "value": "14",
-          "type": "fontSizes"
+          "$type": "fontSizes",
+          "$value": "14"
         }
       }
     }

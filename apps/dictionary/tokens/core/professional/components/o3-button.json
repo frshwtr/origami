@@ -4,169 +4,169 @@
       "primary": {
         "standard": {
           "color": {
-            "value": "#ffffff",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffffff"
           },
           "background": {
-            "value": "#262a33",
-            "type": "color"
+            "$type": "color",
+            "$value": "#262a33"
           },
           "border": {
-            "value": "#ffffff00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffffff00"
           },
           "hover": {
             "background": {
-              "value": "#515257",
-              "type": "color"
+              "$type": "color",
+              "$value": "#515257"
             },
             "color": {
-              "value": "#ffffff",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff"
             },
             "border": {
-              "value": "#ffffff00",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff00"
             }
           },
           "focus": {
             "background": {
-              "value": "#515257",
-              "type": "color"
+              "$type": "color",
+              "$value": "#515257"
             },
             "color": {
-              "value": "#ffffff",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff"
             },
             "border": {
-              "value": "#ffffff00",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff00"
             }
           },
           "active": {
             "background": {
-              "value": "#727071",
-              "type": "color"
+              "$type": "color",
+              "$value": "#727071"
             },
             "color": {
-              "value": "#ffffff",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff"
             },
             "border": {
-              "value": "#ffffff00",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff00"
             }
           }
         },
         "inverse": {
           "color": {
-            "value": "#262a33",
-            "type": "color"
+            "$type": "color",
+            "$value": "#262a33"
           },
           "background": {
-            "value": "#c0efd8",
-            "type": "color"
+            "$type": "color",
+            "$value": "#c0efd8"
           },
           "border": {
-            "value": "#ffffff00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffffff00"
           },
           "hover": {
             "background": {
-              "value": "#9abeaf",
-              "type": "color"
+              "$type": "color",
+              "$value": "#9abeaf"
             },
             "color": {
-              "value": "#262a33",
-              "type": "color"
+              "$type": "color",
+              "$value": "#262a33"
             },
             "border": {
-              "value": "#ffffff00",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff00"
             }
           },
           "focus": {
             "background": {
-              "value": "#9abeaf",
-              "type": "color"
+              "$type": "color",
+              "$value": "#9abeaf"
             },
             "color": {
-              "value": "#262a33",
-              "type": "color"
+              "$type": "color",
+              "$value": "#262a33"
             },
             "border": {
-              "value": "#ffffff00",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff00"
             }
           },
           "active": {
             "background": {
-              "value": "#7b968e",
-              "type": "color"
+              "$type": "color",
+              "$value": "#7b968e"
             },
             "color": {
-              "value": "#262a33",
-              "type": "color"
+              "$type": "color",
+              "$value": "#262a33"
             },
             "border": {
-              "value": "#ffffff00",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff00"
             }
           }
         },
         "neutral": {
           "background": {
-            "value": "{o3.color.palette.black-5}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.black-5}"
           },
           "border": {
-            "value": "{o3.color.palette.black-5}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.black-5}"
           },
           "color": {
-            "value": "{o3.color.use-case.body.text}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.use-case.body.text}"
           },
           "hover": {
             "background": {
-              "value": "{o3.color.palette.black-10}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-10}"
             },
             "border": {
-              "value": "{o3.color.palette.black-10}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-10}"
             },
             "color": {
-              "value": "{o3.color.use-case.body.text}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.use-case.body.text}"
             }
           },
           "focus": {
             "background": {
-              "value": "{o3.color.palette.black-10}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-10}"
             },
             "border": {
-              "value": "{o3.color.palette.black-10}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-10}"
             },
             "color": {
-              "value": "{o3.color.use-case.body.text}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.use-case.body.text}"
             }
           },
           "active": {
             "background": {
-              "value": "{o3.color.palette.black-20}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-20}"
             },
             "border": {
-              "value": "{o3.color.palette.black-5}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-5}"
             },
             "color": {
-              "value": "{o3.color.use-case.body.text}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.use-case.body.text}"
             }
           }
         }
@@ -174,113 +174,113 @@
       "secondary": {
         "standard": {
           "color": {
-            "value": "#262a33",
-            "type": "color"
+            "$type": "color",
+            "$value": "#262a33"
           },
           "background": {
-            "value": "#ffffff00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffffff00"
           },
           "border": {
-            "value": "#262a33",
-            "type": "color"
+            "$type": "color",
+            "$value": "#262a33"
           },
           "hover": {
             "background": {
-              "value": "rgba(38, 42, 51, 0.15)",
-              "type": "color"
+              "$type": "color",
+              "$value": "rgba(38, 42, 51, 0.15)"
             },
             "color": {
-              "value": "#262a33",
-              "type": "color"
+              "$type": "color",
+              "$value": "#262a33"
             },
             "border": {
-              "value": "#262a33",
-              "type": "color"
+              "$type": "color",
+              "$value": "#262a33"
             }
           },
           "focus": {
             "background": {
-              "value": "rgba(38, 42, 51, 0.15)",
-              "type": "color"
+              "$type": "color",
+              "$value": "rgba(38, 42, 51, 0.15)"
             },
             "color": {
-              "value": "#262a33",
-              "type": "color"
+              "$type": "color",
+              "$value": "#262a33"
             },
             "border": {
-              "value": "#262a33",
-              "type": "color"
+              "$type": "color",
+              "$value": "#262a33"
             }
           },
           "active": {
             "background": {
-              "value": "#262a33",
-              "type": "color"
+              "$type": "color",
+              "$value": "#262a33"
             },
             "color": {
-              "value": "#ffffff",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff"
             },
             "border": {
-              "value": "#262a33",
-              "type": "color"
+              "$type": "color",
+              "$value": "#262a33"
             }
           }
         },
         "inverse": {
           "color": {
-            "value": "#c0efd8",
-            "type": "color"
+            "$type": "color",
+            "$value": "#c0efd8"
           },
           "background": {
-            "value": "#ffffff00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffffff00"
           },
           "border": {
-            "value": "#c0efd8",
-            "type": "color"
+            "$type": "color",
+            "$value": "#c0efd8"
           },
           "hover": {
             "background": {
-              "value": "rgba(192, 239, 216, 0.15)",
-              "type": "color"
+              "$type": "color",
+              "$value": "rgba(192, 239, 216, 0.15)"
             },
             "color": {
-              "value": "#c0efd8",
-              "type": "color"
+              "$type": "color",
+              "$value": "#c0efd8"
             },
             "border": {
-              "value": "#c0efd8",
-              "type": "color"
+              "$type": "color",
+              "$value": "#c0efd8"
             }
           },
           "focus": {
             "background": {
-              "value": "rgba(192, 239, 216, 0.15)",
-              "type": "color"
+              "$type": "color",
+              "$value": "rgba(192, 239, 216, 0.15)"
             },
             "color": {
-              "value": "#c0efd8",
-              "type": "color"
+              "$type": "color",
+              "$value": "#c0efd8"
             },
             "border": {
-              "value": "#c0efd8",
-              "type": "color"
+              "$type": "color",
+              "$value": "#c0efd8"
             }
           },
           "active": {
             "background": {
-              "value": "#c0efd8",
-              "type": "color"
+              "$type": "color",
+              "$value": "#c0efd8"
             },
             "color": {
-              "value": "#000000",
-              "type": "color"
+              "$type": "color",
+              "$value": "#000000"
             },
             "border": {
-              "value": "#c0efd8",
-              "type": "color"
+              "$type": "color",
+              "$value": "#c0efd8"
             }
           }
         }
@@ -288,169 +288,169 @@
       "ghost": {
         "standard": {
           "color": {
-            "value": "#262a33",
-            "type": "color"
+            "$type": "color",
+            "$value": "#262a33"
           },
           "background": {
-            "value": "#ffffff00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffffff00"
           },
           "border": {
-            "value": "#ffffff00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffffff00"
           },
           "hover": {
             "background": {
-              "value": "rgba(38, 42, 51, 0.15)",
-              "type": "color"
+              "$type": "color",
+              "$value": "rgba(38, 42, 51, 0.15)"
             },
             "color": {
-              "value": "#262a33",
-              "type": "color"
+              "$type": "color",
+              "$value": "#262a33"
             },
             "border": {
-              "value": "#ffffff00",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff00"
             }
           },
           "focus": {
             "background": {
-              "value": "rgba(38, 42, 51, 0.15)",
-              "type": "color"
+              "$type": "color",
+              "$value": "rgba(38, 42, 51, 0.15)"
             },
             "color": {
-              "value": "#262a33",
-              "type": "color"
+              "$type": "color",
+              "$value": "#262a33"
             },
             "border": {
-              "value": "#ffffff00",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff00"
             }
           },
           "active": {
             "background": {
-              "value": "#262a33",
-              "type": "color"
+              "$type": "color",
+              "$value": "#262a33"
             },
             "color": {
-              "value": "#ffffff",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff"
             },
             "border": {
-              "value": "#ffffff00",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff00"
             }
           }
         },
         "inverse": {
           "color": {
-            "value": "#c0efd8",
-            "type": "color"
+            "$type": "color",
+            "$value": "#c0efd8"
           },
           "background": {
-            "value": "#ffffff00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffffff00"
           },
           "border": {
-            "value": "#ffffff00",
-            "type": "color"
+            "$type": "color",
+            "$value": "#ffffff00"
           },
           "hover": {
             "background": {
-              "value": "rgba(192, 239, 216, 0.15)",
-              "type": "color"
+              "$type": "color",
+              "$value": "rgba(192, 239, 216, 0.15)"
             },
             "color": {
-              "value": "#c0efd8",
-              "type": "color"
+              "$type": "color",
+              "$value": "#c0efd8"
             },
             "border": {
-              "value": "#ffffff00",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff00"
             }
           },
           "focus": {
             "background": {
-              "value": "rgba(192, 239, 216, 0.15)",
-              "type": "color"
+              "$type": "color",
+              "$value": "rgba(192, 239, 216, 0.15)"
             },
             "color": {
-              "value": "#c0efd8",
-              "type": "color"
+              "$type": "color",
+              "$value": "#c0efd8"
             },
             "border": {
-              "value": "#ffffff00",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff00"
             }
           },
           "active": {
             "background": {
-              "value": "#c0efd8",
-              "type": "color"
+              "$type": "color",
+              "$value": "#c0efd8"
             },
             "color": {
-              "value": "#000000",
-              "type": "color"
+              "$type": "color",
+              "$value": "#000000"
             },
             "border": {
-              "value": "#ffffff00",
-              "type": "color"
+              "$type": "color",
+              "$value": "#ffffff00"
             }
           }
         },
         "neutral": {
           "background": {
-            "value": "rgba(255, 255, 255, 0)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255, 255, 255, 0)"
           },
           "border": {
-            "value": "rgba(255, 255, 255, 0)",
-            "type": "color"
+            "$type": "color",
+            "$value": "rgba(255, 255, 255, 0)"
           },
           "color": {
-            "value": "{o3.color.use-case.body.text}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.use-case.body.text}"
           },
           "hover": {
             "background": {
-              "value": "{o3.color.palette.black-10}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-10}"
             },
             "border": {
-              "value": "{o3.color.palette.black-10}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-10}"
             },
             "color": {
-              "value": "{o3.color.use-case.body.text}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.use-case.body.text}"
             }
           },
           "focus": {
             "background": {
-              "value": "{o3.color.palette.black-10}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-10}"
             },
             "border": {
-              "value": "{o3.color.palette.black-10}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-10}"
             },
             "color": {
-              "value": "{o3.color.use-case.body.text}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.use-case.body.text}"
             }
           },
           "active": {
             "background": {
-              "value": "{o3.color.palette.black-20}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-20}"
             },
             "border": {
-              "value": "{o3.color.palette.black-5}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-5}"
             },
             "color": {
-              "value": "{o3.color.use-case.body.text}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.use-case.body.text}"
             }
           }
         }

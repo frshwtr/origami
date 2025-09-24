@@ -3,81 +3,81 @@
     "editorial-typography": {
       "topic-tag": {
         "color": {
-          "value": "{o3.color.palette.claret}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{o3.color.palette.claret}"
         },
         "inverse-color": {
-          "value": "{o3.color.palette.white}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{o3.color.palette.white}"
         },
         "hover": {
           "color": {
-            "value": "{o3.color.palette.claret-30}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.claret-30}"
           },
           "inverse-color": {
-            "value": "{o3.color.use-case.link-inverse.text.hover}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.use-case.link-inverse.text.hover}"
           }
         }
       },
       "caption": {
         "color": {
-          "value": "{o3.color.palette.black-70}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{o3.color.palette.black-70}"
         },
         "inverse-color": {
-          "value": "{o3.color.use-case.muted-inverse.text}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{o3.color.use-case.muted-inverse.text}"
         }
       },
       "byline-author": {
         "color": {
-          "value": "{o3.color.use-case.body.text}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{o3.color.use-case.body.text}"
         },
         "inverse-color": {
-          "value": "{o3.color.palette.white}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{o3.color.palette.white}"
         },
         "hover": {
           "color": {
-            "value": "{o3.color.palette.claret-60}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.claret-60}"
           },
           "inverse-color": {
-            "value": "{o3.color.use-case.link-inverse.text.hover}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.use-case.link-inverse.text.hover}"
           }
         }
       },
       "byline-timestamp": {
         "color": {
-          "value": "{o3.color.palette.black-60}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{o3.color.palette.black-60}"
         },
         "inverse-color": {
-          "value": "{o3.color.use-case.muted-inverse.text}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{o3.color.use-case.muted-inverse.text}"
         }
       },
       "pullquote-content": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{o3.font.family.metric}",
           "fontWeight": "{o3.font.weight.semibold}",
           "fontSize": "{o3.font.size-metric2.2}",
           "lineHeight": "{o3.font.lineheight-metric2.2}"
-        },
-        "type": "typography"
+        }
       },
       "big-number-title": {
-        "value": {
+        "$type": "typography",
+        "$value": {
           "fontFamily": "{o3.font.family.metric}",
           "fontWeight": "{o3.font.weight.semibold}",
           "fontSize": "{o3.font.size-metric2.7}",
           "lineHeight": "{o3.font.lineheight-metric2.7}"
-        },
-        "type": "typography"
+        }
       }
     }
   }

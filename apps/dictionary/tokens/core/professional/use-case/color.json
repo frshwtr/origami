@@ -5,88 +5,88 @@
         "link": {
           "text": {
             "@": {
-              "value": "{o3.color.palette.slate}",
-              "type": "color",
-              "description": ""
+              "description": "",
+              "$type": "color",
+              "$value": "{o3.color.palette.slate}"
             },
             "hover": {
-              "value": "{o3.color.palette.slate}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.slate}"
             },
             "focus": {
-              "value": "{o3.color.palette.slate}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.slate}"
             }
           },
           "underline": {
             "@": {
-              "value": "{o3.color.palette.mint-80}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.mint-80}"
             },
             "hover": {
-              "value": "{o3.color.palette.mint-80}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.mint-80}"
             },
             "focus": {
-              "value": "{o3.color.palette.black}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black}"
             }
           }
         },
         "link-inverse": {
           "text": {
             "@": {
-              "value": "{o3.color.palette.mint}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.mint}"
             },
             "hover": {
-              "value": "{o3.color.palette.mint-70}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.mint-70}"
             },
             "focus": {
-              "value": "#8fb3a1",
-              "type": "color"
+              "$type": "color",
+              "$value": "#8fb3a1"
             }
           },
           "underline": {
             "@": {
-              "value": "{o3.color.palette.mint}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.mint}"
             },
             "hover": {
-              "value": "{o3.color.palette.mint-70}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.mint-70}"
             },
             "focus": {
-              "value": "{o3.color.palette.black}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black}"
             }
           }
         },
         "button": {
           "foreground": {
-            "value": "{o3.color.palette.white}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.white}"
           },
           "foreground-disabled": {
-            "value": "#FFF7EF",
-            "type": "color"
+            "$type": "color",
+            "$value": "#FFF7EF"
           },
           "default": {
-            "value": "{o3.color.palette.slate}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.slate}"
           },
           "hover": {
-            "value": "#515257",
-            "type": "color"
+            "$type": "color",
+            "$value": "#515257"
           },
           "pressed": {
-            "value": "#7D7A7A",
-            "type": "color"
+            "$type": "color",
+            "$value": "#7D7A7A"
           },
           "disabled": {
-            "value": "#D4C9C1",
-            "type": "color"
+            "$type": "color",
+            "$value": "#D4C9C1"
           }
         }
       }

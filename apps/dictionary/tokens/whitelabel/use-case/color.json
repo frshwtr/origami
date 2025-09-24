@@ -5,155 +5,155 @@
         "link": {
           "text": {
             "@": {
-              "value": "#757575",
-              "type": "color",
-              "description": ""
+              "description": "",
+              "$type": "color",
+              "$value": "#757575"
             },
             "hover": {
-              "value": "{o3.color.palette.black-60}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-60}"
             }
           },
           "underline": {
             "@": {
-              "value": "{o3.color.palette.black-30}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-30}"
             },
             "hover": {
-              "value": "{o3.color.palette.black-70}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-70}"
             }
           }
         },
         "link-inverse": {
           "text": {
             "@": {
-              "value": "{o3.color.palette.white}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.white}"
             },
             "hover": {
-              "value": "{o3.color.palette.black-20}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-20}"
             }
           },
           "underline": {
             "@": {
-              "value": "{o3.color.palette.white}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.white}"
             },
             "hover": {
-              "value": "{o3.color.palette.black-20}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-20}"
             }
           }
         },
         "page": {
           "background": {
-            "value": "{o3.color.palette.white}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.white}"
           }
         },
         "page-inverse": {
           "background": {
-            "value": "{o3.color.palette.black-80}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.black-80}"
           }
         },
         "body": {
           "text": {
-            "value": "{o3.color.palette.black-80}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.black-80}"
           }
         },
         "support": {
           "text": {
-            "value": "{o3.color.palette.black-70}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.black-70}"
           }
         },
         "support-inverse": {
           "text": {
-            "value": "{o3.color.palette.black-10}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.black-10}"
           }
         },
         "body-inverse": {
           "text": {
-            "value": "{o3.color.palette.white}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.white}"
           }
         },
         "muted": {
           "text": {
-            "value": "#757575",
-            "type": "color",
-            "description": "\"Muted\" text is less prominent, for example credits and captions."
+            "$type": "color",
+            "$value": "#757575",
+            "$description": "\"Muted\" text is less prominent, for example credits and captions."
           }
         },
         "muted-inverse": {
           "text": {
-            "value": "{o3.color.palette.black-20}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.black-20}"
           }
         },
         "heading": {
           "text": {
-            "value": "{o3.color.palette.black-90}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.black-90}"
           }
         },
         "heading-inverse": {
           "text": {
-            "value": "{o3.color.palette.white}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.white}"
           }
         },
         "button": {
           "foreground": {
-            "value": "{o3.color.palette.white}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.white}"
           },
           "foreground-disabled": {
-            "value": "{o3.color.palette.white}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.white}"
           },
           "default": {
-            "value": "{o3.color.palette.black-90}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.black-90}"
           },
           "hover": {
-            "value": "{o3.color.palette.black-80}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.black-80}"
           },
           "pressed": {
-            "value": "{o3.color.palette.black-70}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.black-70}"
           },
           "disabled": {
-            "value": "{o3.color.palette.black-20}",
-            "type": "color"
+            "$type": "color",
+            "$value": "{o3.color.palette.black-20}"
           }
         },
         "error-background": {
-          "value": "rgba(204,0,0,0.06)",
-          "type": "color"
+          "$type": "color",
+          "$value": "rgba(204,0,0,0.06)"
         },
         "error-text": {
-          "value": "{o3.color.palette.crimson}",
-          "type": "color"
+          "$type": "color",
+          "$value": "{o3.color.palette.crimson}"
         },
         "error": {
-          "value": "{o3.color.palette.crimson}",
-          "type": "color",
-          "description": "[DEPRECATED] This token is going to be looked at in the upcoming audit."
+          "$type": "color",
+          "$value": "{o3.color.palette.crimson}",
+          "$description": "[DEPRECATED] This token is going to be looked at in the upcoming audit."
         },
         "success-background": {
-          "value": "#D7F0D1",
-          "type": "color"
+          "$type": "color",
+          "$value": "#D7F0D1"
         },
         "success-foreground": {
-          "value": "#00572C",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00572C"
         }
       }
     }
