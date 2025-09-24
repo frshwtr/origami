@@ -4,8 +4,6 @@
       "palette": {
         "teal": {
           "description": "",
-          "type": "color",
-          "value": "#0d7680ff",
           "blendMode": "normal",
           "origamiKeys": [
             "palette",
@@ -16,11 +14,11 @@
               "styleId": "S:a56ec15ce664561d1049dd70ad6f40fee93ef09c,",
               "exportKey": "color"
             }
-          }
+          },
+          "$type": "color",
+          "$value": "#0d7680ff"
         },
         "oceanwave": {
-          "type": "color",
-          "value": "#C9F5EA",
           "blendMode": "normal",
           "origamiKeys": [
             "palette",
@@ -31,11 +29,11 @@
               "styleId": "S:47b573ac7de8e17071c3ecc61c05dc843277efb5,",
               "exportKey": "color"
             }
-          }
+          },
+          "$type": "color",
+          "$value": "#C9F5EA"
         },
         "slate": {
-          "type": "color",
-          "value": "#262A33",
           "blendMode": "normal",
           "origamiKeys": [
             "palette",
@@ -46,12 +44,12 @@
               "styleId": "S:d85c5ab18d32b1525bc200af8071e1615cfc9452,",
               "exportKey": "color"
             }
-          }
+          },
+          "$type": "color",
+          "$value": "#262A33"
         },
         "white": {
           "description": "",
-          "type": "color",
-          "value": "#ffffffff",
           "blendMode": "normal",
           "origamiKeys": [
             "palette",
@@ -62,12 +60,12 @@
               "styleId": "S:76037475c9beb1096647e1b98ab85097403ede29,",
               "exportKey": "color"
             }
-          }
+          },
+          "$type": "color",
+          "$value": "#ffffffff"
         },
         "black": {
           "description": "",
-          "type": "color",
-          "value": "#000000ff",
           "blendMode": "normal",
           "origamiKeys": [
             "palette",
@@ -78,12 +76,12 @@
               "styleId": "S:65c9a696bc2d35cbce6175905980bcc3f0fe0449,",
               "exportKey": "color"
             }
-          }
+          },
+          "$type": "color",
+          "$value": "#000000ff"
         },
         "claret": {
           "description": "",
-          "type": "color",
-          "value": "#990f3dff",
           "blendMode": "normal",
           "origamiKeys": [
             "palette",
@@ -94,39 +92,41 @@
               "styleId": "S:82431c59eb5d4b565bc74b2b629398b9bfe2cec4,",
               "exportKey": "color"
             }
-          }
+          },
+          "$type": "color",
+          "$value": "#990f3dff"
         },
         "black-90": {
-          "value": "#1a1817ff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1a1817ff"
         },
         "black-50": {
-          "value": "#807973ff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#807973ff"
         },
         "black-70": {
-          "value": "#4d4d4d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#4d4d4d"
         },
         "teal-40": {
-          "value": "#0a5e66ff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#0a5e66ff"
         },
         "teal-20": {
-          "value": "#052f33ff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#052f33ff"
         },
         "black-30": {
-          "value": "#b3a9a0ff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#b3a9a0ff"
         },
         "black-10": {
-          "value": "#e6d9ceff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#e6d9ceff"
         },
         "crimson": {
-          "value": "#cc0000ff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#cc0000ff"
         }
       }
     }

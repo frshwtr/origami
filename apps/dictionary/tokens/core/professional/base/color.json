@@ -3,36 +3,36 @@
     "color": {
       "palette": {
         "mint": {
-          "value": "#c0efd8",
-          "type": "color",
           "origamiKeys": [
             "palette",
             "primary"
-          ]
+          ],
+          "$type": "color",
+          "$value": "#c0efd8"
         },
         "mint-80": {
-          "value": "#A4CCB8",
-          "type": "color"
+          "$type": "color",
+          "$value": "#A4CCB8"
         },
         "mint-70": {
-          "value": "#8FB3A1",
-          "type": "color"
+          "$type": "color",
+          "$value": "#8FB3A1"
         },
         "mint-60": {
-          "value": "#7B998A",
-          "type": "color"
+          "$type": "color",
+          "$value": "#7B998A"
         },
         "mint-50": {
-          "value": "#668073",
-          "type": "color"
+          "$type": "color",
+          "$value": "#668073"
         },
         "mint-40": {
-          "value": "#52665C",
-          "type": "color"
+          "$type": "color",
+          "$value": "#52665C"
         },
         "mint-30": {
-          "value": "#3D4D45",
-          "type": "color"
+          "$type": "color",
+          "$value": "#3D4D45"
         }
       }
     }

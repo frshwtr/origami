@@ -2,52 +2,52 @@
   "o3": {
     "spacing": {
       "5xs": {
-        "value": "4px",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "4px"
       },
       "4xs": {
-        "value": "8px",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "8px"
       },
       "3xs": {
-        "value": "12px",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "12px"
       },
       "2xs": {
-        "value": "16px",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "16px"
       },
       "xs": {
-        "value": "20px",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "20px"
       },
       "s": {
-        "value": "24px",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "24px"
       },
       "m": {
-        "value": "32px",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "32px"
       },
       "l": {
-        "value": "40px",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "40px"
       },
       "xl": {
-        "value": "48px",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "48px"
       },
       "2xl": {
-        "value": "64px",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "64px"
       },
       "3xl": {
-        "value": "80px",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "80px"
       },
       "4xl": {
-        "value": "96px",
-        "type": "spacing"
+        "$type": "spacing",
+        "$value": "96px"
       }
     }
   }

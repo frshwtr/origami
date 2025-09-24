@@ -5,52 +5,52 @@
         "use-case": {
           "background": {
             "@": {
-              "value": "{o3.color.palette.white}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.white}"
             },
             "disabled": {
-              "value": "{o3.color.palette.black-10}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-10}"
             },
             "error": {
-              "value": "rgba(204, 0, 0, 0.06)",
-              "type": "color"
+              "$type": "color",
+              "$value": "rgba(204, 0, 0, 0.06)"
             }
           },
           "border": {
             "@": {
-              "value": "{o3.color.palette.black-50}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-50}"
             },
             "hover": {
-              "value": "{o3.color.use-case.button.hover}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.use-case.button.hover}"
             },
             "active": {
-              "value": "{o3.color.use-case.button.pressed}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.use-case.button.pressed}"
             },
             "disabled": {
-              "value": "{o3.color.use-case.button.disabled}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.use-case.button.disabled}"
             }
           },
           "selected": {
             "@": {
-              "value": "{o3.color.use-case.button.default}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.use-case.button.default}"
             },
             "hover": {
-              "value": "{o3.color.use-case.button.hover}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.use-case.button.hover}"
             },
             "active": {
-              "value": "{o3.color.use-case.button.pressed}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.use-case.button.pressed}"
             },
             "disabled": {
-              "value": "{o3.color.palette.black-5}",
-              "type": "color"
+              "$type": "color",
+              "$value": "{o3.color.palette.black-5}"
             }
           }
         }

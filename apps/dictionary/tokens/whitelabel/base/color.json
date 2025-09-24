@@ -3,60 +3,60 @@
     "color": {
       "palette": {
         "black": {
-          "type": "color",
-          "value": "#000"
+          "$type": "color",
+          "$value": "#000"
         },
         "white": {
-          "value": "#fff",
-          "type": "color"
+          "$type": "color",
+          "$value": "#fff"
         },
         "jade": {
-          "value": "#00994d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#00994d"
         },
         "crimson": {
-          "value": "#c00",
-          "type": "color"
+          "$type": "color",
+          "$value": "#c00"
         },
         "black-5": {
-          "value": "#F2F2F2",
-          "type": "color"
+          "$type": "color",
+          "$value": "#F2F2F2"
         },
         "black-10": {
-          "value": "#E6E6E6",
-          "type": "color"
+          "$type": "color",
+          "$value": "#E6E6E6"
         },
         "black-20": {
-          "value": "#ccc",
-          "type": "color"
+          "$type": "color",
+          "$value": "#ccc"
         },
         "black-30": {
-          "value": "#B3B3B3",
-          "type": "color"
+          "$type": "color",
+          "$value": "#B3B3B3"
         },
         "black-40": {
-          "value": "#999",
-          "type": "color"
+          "$type": "color",
+          "$value": "#999"
         },
         "black-50": {
-          "value": "#808080",
-          "type": "color"
+          "$type": "color",
+          "$value": "#808080"
         },
         "black-60": {
-          "value": "#666",
-          "type": "color"
+          "$type": "color",
+          "$value": "#666"
         },
         "black-70": {
-          "value": "#4d4d4d",
-          "type": "color"
+          "$type": "color",
+          "$value": "#4d4d4d"
         },
         "black-80": {
-          "value": "#333",
-          "type": "color"
+          "$type": "color",
+          "$value": "#333"
         },
         "black-90": {
-          "value": "#1a1a1a",
-          "type": "color"
+          "$type": "color",
+          "$value": "#1a1a1a"
         }
       }
     }
